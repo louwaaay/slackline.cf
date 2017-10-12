@@ -1,0 +1,15 @@
+
+/*---  Colors  ---*/
+@red              : #DB2828;
+@orange           : #F2711C;
+@yellow           : #FBBD08;
+@olive            : #B5CC18;
+@green            : #84A98C;
+@teal             : #00B5AD;
+@blue             : #BEE9E8;
+@violet           : #A8AEC1;
+@purple           : #A09EBB;
+@pink             : #E03997;
+@brown            : #A5673F;
+@grey             : #6B6D76;
+@black            : #1B1C1D;

@@ -5,7 +5,30 @@
   font-weight: normal;
   font-style: normal; }
 .ui.fixed.menu + .ui.container {
-  margin-top: 4.75em;
+  margin-top: 6.75em;
   margin-bottom: 2.75em; }
+
+.ui.segment.video-segment {
+  padding: 0 !important;
+  overflow: hidden;
+  position: relative; }
+  .ui.segment.video-segment::before {
+    content: "";
+    display: block;
+    padding-top: 56.25%; }
+  .ui.segment.video-segment iframe {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    display: block;
+    max-width: 100%; }
+
+.ui.main.container p {
+  font-size: 1.2em; }
+
+header.ui.fixed.menu {
+  height: 64px; }
 
 /*# sourceMappingURL=styles.css.map */

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>LeariningSemantic</title>
+    <title>CollegeProject</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link href="./semantic/dist/semantic.min.css" rel="stylesheet">
     <link href="./assets/css/styles.css" rel="stylesheet">
 </head>
-<body>
+<body style="background:url(https://source.unsplash.com/random);background-size: cover;">
 
 <?php
 

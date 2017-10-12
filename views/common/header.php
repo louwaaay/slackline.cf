@@ -1,5 +1,5 @@
 <header class="ui fixed inverted menu">
-    <div class="ui container">
+<!--    <div class="ui container">-->
         <a href="#" class="header item">
             Slackline.cf
         </a>
@@ -8,5 +8,5 @@
         <a href="/slackline?page=tricklining" class="item">Tricklining</a>
         <a href="/slackline?page=longlining" class="item">Longlining</a>
 
-    </div>
+<!--    </div>-->
 </header>
